@@ -1,1 +1,10 @@
 # Placeholder for requirements.txt
+numpy==1.23.5
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+onnxmltools
+skl2onnx
+jupyter
